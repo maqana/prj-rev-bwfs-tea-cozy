@@ -1,0 +1,23 @@
+logo
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-tea-cozy-logo.png
+
+bedford bizarre
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-bedford-bizarre.jpg
+
+berry blitz
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-berryblitz.jpg
+
+donut
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-donut.jpg
+
+locations
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-locations-background.jpg
+
+background
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-mission-background.jpg
+
+myrtle ave
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-myrtle-ave.jpg
+
+spiced rum
+https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-spiced-rum.jpg
